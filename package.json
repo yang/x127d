@@ -1,0 +1,14 @@
+{
+  "name": "@yang/x127d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"publishConfig": {
+   "@yang:registry": "https://npm.pkg.github.com"
+ },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
